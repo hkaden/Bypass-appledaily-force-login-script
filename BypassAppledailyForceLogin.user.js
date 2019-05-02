@@ -7,6 +7,7 @@
 // @include      *://*.*.appledaily.com/*
 // @downloadURL	https://github.com/hkaden/Bypass-appledaily-force-login-script/raw/master/BypassAppledailyForceLogin.user.js
 // @updateURL	https://github.com/hkaden/Bypass-appledaily-force-login-script/raw/master/BypassAppledailyForceLogin.user.js
+// @icon https://cdn6.aptoide.com/imgs/f/7/0/f706a16d46c5f8ec790565b2109cef95_icon.png?w=32
 // @grant        none
 // ==/UserScript==
 
