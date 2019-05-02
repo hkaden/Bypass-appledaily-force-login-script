@@ -5,6 +5,8 @@
 // @description  Bypass appledaily force login
 // @author       Kaden
 // @include      *://*.*.appledaily.com/*
+// @downloadURL	https://github.com/hkaden/Bypass-appledaily-force-login-script/raw/master/BypassAppledailyForceLogin.user.js
+// @updateURL	https://github.com/hkaden/Bypass-appledaily-force-login-script/raw/master/BypassAppledailyForceLogin.user.js
 // @grant        none
 // ==/UserScript==
 
